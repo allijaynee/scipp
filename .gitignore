@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+cp-pathway/node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables
+.env
+
+# Testing files
+test-openai.js
+
+# IDE and OS files
+.DS_Store
+.vscode/
