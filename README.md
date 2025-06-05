@@ -13,3 +13,6 @@ A React web application for assessing patients with chest pain, and determining 
 - Stress test criteria evaluation
 - Form state management across multiple pages
 - Real-time validation and risk assessment
+
+## View
+[Platform](https://allijaynee.github.io/scipp/)
